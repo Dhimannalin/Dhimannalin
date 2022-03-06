@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhimannalin
-- 👀 I’m interested in ... Cyber Security and Networking
+- 👀 I’m interested in ... **Cyber Security and Networking**
 - 🌱 I’m currently learning ... Basic Coding 
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... ![Cyber](Cyber.jpg)
 - 📫 How to reach me ... 
 
 <!---
